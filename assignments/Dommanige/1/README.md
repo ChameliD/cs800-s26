@@ -10,25 +10,6 @@ The `Dommanige/1/styles` directory contains the linked stylesheet used for the s
 The `Dommanige/1/` directory also contains this `README.md` file and `completed.png`, which provides proof of completion of the tutorial.
 
 
-assignments/Dommanige/1/
-├── html/
-│   ├── attributes.html
-│   ├── blocks.html
-│   ├── forms.html
-│   ├── headings.html
-│   ├── Hello-world.html
-│   ├── inline-tags.html
-│   ├── link-and-references.html
-│   ├── list.html
-│   ├── Styles-and-scripts.html
-│   └── tables.html
-├── styles/
-│   └── styles.css
-├── completed.png
-└── README.md
-
-
-
 ## HTML Workshop
 All required `learnyouhtml` exercises were completed successfully.
 
