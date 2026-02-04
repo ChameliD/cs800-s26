@@ -40,7 +40,7 @@ This assignment covers the initial setup, Git/GitHub usage, basic html exercises
 
 
 
-\##The screenshoot: Workshop Completion
+\## The screenshot: Workshop Completion
 
 !\[learnyouhtml workshop completion](html/A1\_assignment.jpg)
 
