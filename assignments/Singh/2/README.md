@@ -20,7 +20,7 @@ The components include:
 ## **2. Professional Accounts**
 
 ### **2.1 Google Scholar**
-- **Profile link:** [Anurudh Singh](https://scholar.google.com/citations?user=imXYteMAAAAJ&hl=en)
+- **Profile link:** [Click Here](https://scholar.google.com/citations?user=imXYteMAAAAJ&hl=en)
 - **Screenshot:**  
   ![Google Scholar](images/google.jpg)
 - **Faculty/Researchers followed:**
@@ -38,46 +38,43 @@ The components include:
 ---
 
 ### **3.2 ORCID**
-- **Profile link:** [Your ORCID](YOUR_ORCID_LINK)
+- **Profile link:** [Click here ](https://orcid.org/my-orcid?orcid=0009-0005-6094-9538)
 - **Screenshot:**  
-  ![ORCID](images/orcid.png)
+  ![ORCID](images/orcid.jpg)
 
 ---
 
 ### **3.3 LinkedIn**
-- **Profile link:** [Your LinkedIn Profile](YOUR_LINKEDIN_LINK)
+- **Profile link:** [Click Me](https://www.linkedin.com/in/singh-anurudh/)
 - **Screenshot:**  
-  ![LinkedIn](images/linkedin.png)
+  ![LinkedIn](images/linkedin.jpg)
 - **Other accounts linked:** Google Scholar, ORCID, Academic Webpage
 
 ---
 
 ## **4. Academic Webpage**
-- **Webpage link:** [Your Academic Webpage](YOUR_WEBPAGE_LINK)
+- **Webpage link:** [Github webpage](https://anurudh1994.github.io/)
 - **Screenshot:**  
-  ![Webpage](images/webpage.png)
-- **Inspiration/References:**  
-  1. [Example Page 1](LINK)
-  2. [Example Page 2](LINK)
+  ![Webpage](images/webpage.jpg)
 - **Notes:** Bi-directional linkage to all professional accounts included.
 
 ---
 
 ## **5. LaTeX Assignment (Overleaf)**
-- **PDF Download:** [Assignment 2 PDF](latex/assignment2.pdf)
+- **PDF Download:** [Assignment 2 PDF](LaTeX_basics.pdf)
 - **Notes:** Used Overleaf template from class Slide 65. Replaced all URLs, images, and text with personal info.
 
 ---
 
 ## **6. Responsible Conduct of Research (RCR)**
-- **Certificate Screenshot:**  
-  ![RCR Certificate](images/rcr_certificate.png)
+- **Certificate PDF:**  
+  ![RCR Certificate](citi_course.pdf)
 - **Completion Notes:** Completed "Responsible Conduct of Research for Engineers" modules at ODU.
 
 ---
 
 ## **7. Walkthrough Video**
-- **YouTube Link:** [Assignment 2 Walkthrough Video](YOUR_YOUTUBE_LINK)
+- **YouTube Link:** [Assignment 2 Walkthrough Video](https://youtu.be/Ek4k2qwJgG8)
 - **Notes:** Demonstrates all accounts, RCR completion, and academic webpage.
 
 ---
@@ -86,5 +83,6 @@ The components include:
 - All accounts include profile pictures and filled bios.
 - Repository structure is organized for easy navigation.
 - Links are bi-directional where applicable.
+
 
 
