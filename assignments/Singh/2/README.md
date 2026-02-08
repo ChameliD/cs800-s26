@@ -24,16 +24,15 @@ The components include:
 - **Screenshot:**  
   ![Google Scholar](images/google.jpg)
 - **Faculty/Researchers followed:**
-  1. Faculty 1 (ODU)
-  2. Faculty 2 (ODU)
-  3. Faculty 3 (ODU)
-  4. Faculty 4 (ODU)
-  5. Faculty 5 (ODU)
-  6. Researcher 1
-  7. Researcher 2
-  8. Researcher 3
-  9. Researcher 4
-  10. Researcher 5
+  1. Faculty 1 (ODU): Hossein Sarrafzadeh
+  2. Faculty 2 (ODU): Mohammad GhasemiGol
+  3. Faculty 3 (ODU): Pratip Rana
+  4. Faculty 4 (ODU): Khan Iftekharuddin
+  5. Faculty 5 (ODU):Dimitrie C. Popescu
+  6. Researcher 1 : Kshitiz Aryal
+  7. Researcher 2 : Shahabuddin Khan
+  8. Researcher 3 : Ganesh Sapkota
+  
 
 ---
 
@@ -82,6 +81,7 @@ The components include:
 - All accounts include profile pictures and filled bios.
 - Repository structure is organized for easy navigation.
 - Links are bi-directional where applicable.
+
 
 
 
