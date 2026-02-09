@@ -74,14 +74,14 @@ I have previously completed the Responsible Conduct of Research (RCR) training.
 **Option completed:**  
 Responsible Conduct of Research for Engineers
 
-As required, I verified completion through DegreeWorks under **Doctoral Milestones** and included a screenshot showing the completed RCR requirement. I have also included the official CITI completion certificate.
+I verified completion through DegreeWorks under **Doctoral Milestones** and included a screenshot showing the completed RCR requirement. I have also included the official CITI completion certificate.
 
 **Proof of completion:**
 - DegreeWorks completion screenshot  
 - CITI RCR completion certificate  
 
 **Files included:**
-- `Screenshot -RCR.png`  
+- `Screenshot_RCR.png`  
 - `citiCompletionCertificate.pdf`
 
 **DegreeWorks Screenshot:**  
@@ -91,6 +91,6 @@ As required, I verified completion through DegreeWorks under **Doctoral Mileston
 
 ## YouTube Walkthrough Video
 
-**Video link:** [Add YouTube link here]
+**Video link:** [https://youtu.be/tbRnJRUBWf8]
 
 
