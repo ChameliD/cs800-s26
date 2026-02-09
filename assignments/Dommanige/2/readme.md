@@ -85,7 +85,7 @@ I verified completion through DegreeWorks under **Doctoral Milestones** and incl
 - `citiCompletionCertificate.pdf`
 
 **DegreeWorks Screenshot:**  
-![RCR Completion](Screenshot -RCR.png)
+![RCR Completion](Screenshot_RCR.png)
 
 ---
 
