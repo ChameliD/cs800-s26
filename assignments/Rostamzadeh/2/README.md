@@ -48,7 +48,7 @@ main.png
 A screenshot of my main Google Scholar profile page, showing my name, affiliation, research interests, and profile
 setup.
 
-[View Google Scholar Followings](2/google_scholar/Followings.png)
+[View Google Scholar Followings](google_scholar/Followings.png)
 
 
 ## RCR
