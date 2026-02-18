@@ -30,24 +30,23 @@ file following the required CS 800 repository structure.
 
 ## Directory Structure
 
-assignments/Das/1/
-├── html/
-│ ├── hello-world.html
-│ ├── tags.html
-│ ├── attributes.html
-│ ├── inline-tags.html
-│ ├── headings.html
-│ ├── lists.html
-│ ├── tables.html
-│ ├── blocks.html
-│ ├── links-images.html
-│ ├── forms.html
-│ ├── styles.html
-│ ├── index.html
-│ └── style.css
-├── learnyouhtml-complete.png
-└── README.md
-
+assignments/Das/1/  
+├── html/  
+│   ├── hello-world.html  
+│   ├── tags.html  
+│   ├── attributes.html  
+│   ├── inline-tags.html  
+│   ├── headings.html  
+│   ├── lists.html  
+│   ├── tables.html  
+│   ├── blocks.html  
+│   ├── links-images.html  
+│   ├── forms.html  
+│   ├── styles.html  
+│   ├── index.html  
+│   └── style.css  
+├── learnyouhtml-complete.png  
+└── README.md  
 
 ---
 
@@ -76,10 +75,12 @@ The following files correspond to the completed learnyouhtml workshop exercises:
 ---
 
 ## Video Demonstration
-A short video walkthrough demonstrating the assignment directory structure and
-successful completion of the learnyouhtml workshop.
+An unlisted YouTube video demonstrating:
+- Listing of the assignment files and directories  
+- The completed learnyouhtml workshop end screen  
 
-**YouTube Link:** *(paste your video link here)*
+**YouTube Link:**  
+https://youtu.be/gVCC8hUfgVU
 
 ---
 
