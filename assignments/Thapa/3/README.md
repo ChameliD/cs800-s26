@@ -40,9 +40,9 @@ This submission contains five papers from my research area (applied cryptography
 
 **Screenshot (Page 1):**
 
-![Paper 1](3/images/PSMT_1.png)
+![Paper 1](images/PSMT_1.png)
 
-**Marked-up PDF:** [Paper 1](3/marked-up-pdfs/PSMT_1.pdf)
+**Marked-up PDF:** [Paper 1](marked-up-pdfs/PSMT_1.pdf)
 
 ---
 
@@ -72,9 +72,9 @@ This submission contains five papers from my research area (applied cryptography
 
 **Screenshot (Page 1):**
 
-![Paper 2](3/images/PSMT_Select_Then_Compute.png)
+![Paper 2](images/PSMT_Select_Then_Compute.png)
 
-**Marked-up PDF:** [Paper 2](3/marked-up-pdfs/PSMT_Select_Then_Compute.pdf)
+**Marked-up PDF:** [Paper 2](marked-up-pdfs/PSMT_Select_Then_Compute.pdf)
 
 ---
 
@@ -108,9 +108,9 @@ This submission contains five papers from my research area (applied cryptography
 
 **Screenshot (Page 1):**
 
-![Paper 3](3/images/SQUID_database.png)
+![Paper 3](images/SQUID_database.png)
 
-**Marked-up PDF:** [Paper 3](3/marked-up-pdfs/SQUID_database.pdf)
+**Marked-up PDF:** [Paper 3](marked-up-pdfs/SQUID_database.pdf)
 
 ---
 
@@ -139,9 +139,9 @@ This submission contains five papers from my research area (applied cryptography
 
 **Screenshot (Page 1):**
 
-![Paper 4](3/images/Scalable_PSI.png)
+![Paper 4](images/Scalable_PSI.png)
 
-**Marked-up PDF:** [Paper 4](3/marked-up-pdfs/Scalable_PSI.pdf)
+**Marked-up PDF:** [Paper 4](marked-up-pdfs/Scalable_PSI.pdf)
 
 ---
 
@@ -173,9 +173,9 @@ This submission contains five papers from my research area (applied cryptography
 
 **Screenshot (Page 1):**
 
-![Paper 5](3/images/ckks_functional_bootstrapping.png)
+![Paper 5](images/ckks_functional_bootstrapping.png)
 
-**Marked-up PDF:** [Paper 5](3/marked-up-pdfs/ckks_functional_bootstrapping.pdf)
+**Marked-up PDF:** [Paper 5](marked-up-pdfs/ckks_functional_bootstrapping.pdf)
 
 ---
 
