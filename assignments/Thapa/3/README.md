@@ -179,8 +179,8 @@ This submission contains five papers from my research area (applied cryptography
 
 ---
 
-<!-- ## Video walkthrough
+## Video walkthrough
 
 A short YouTube video walking through the papers and discussing the 1st-pass highlights:
 
-**Video Link:** [YouTube Video]() -->
+**Video Link:** [YouTube Video](https://youtu.be/lpKWtv5JQQY)
