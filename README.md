@@ -62,3 +62,5 @@ CRN 32738
    * [Due: Feb 23](/assignments/assignment-03.md)
 * Assignment 4: Literature Review
    * [Due: Mar 9](/assignments/assignment-04.md)
+* Assignment 5: Literature Review, Part 2
+   * [Due: Mar 23](/assignments/assignment-05.md)
