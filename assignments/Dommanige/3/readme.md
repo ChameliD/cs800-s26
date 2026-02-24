@@ -169,4 +169,4 @@ The paper introduces a novel TTA-m-based uncertainty quantification method for T
 
 ## YouTube Walkthrough Video
 
-**Video link:** []
+**Video link:** [https://youtu.be/e5FfYah5Epg]
